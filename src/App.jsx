@@ -1,4 +1,4 @@
-import { BrowserRouter, HashRouter, Route, Routes } from "react-router-dom"
+import { HashRouter, Route, Routes } from "react-router-dom"
 import Home from "./componenets/Home"
 import "./componenets/Style.css"
 import Product from "./componenets/Product"
