@@ -1,5 +1,4 @@
 import { useNavigate } from "react-router-dom"
-import mobile from "../images/img1.png"
 function Product(){
     const navigate = useNavigate();
 
